@@ -1,0 +1,21 @@
+{
+    "name": "agioslux/phprouter",
+    "description": "PHP advanced Router classes like Laravel",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Agioslux\\Phprouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kremilly",
+            "email": "kremilly@proton.me"
+        }
+    ],
+    "minimum-stability": "stable"
+}
