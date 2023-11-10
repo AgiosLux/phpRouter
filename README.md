@@ -60,4 +60,4 @@ $response->setHttpCode(200);
 
 ## Dependencies
 
-* php >= 8.1
+* php >= 8.0
